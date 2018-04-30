@@ -8,7 +8,7 @@ You need an extra linux（centos 7 x64） server to be the man in the middle
 
 Server running command：
 ```bash
-yum install git;git clone https://github.com/zy519871324/PUBG_test.git; chmod +x . /root/PUBG_test/update.sh;. /root/PUBG_test/update.sh
+yum install git;git clone https://github.com/jianghu88/pubg.git; chmod +x . /root/PUBG/update.sh;. /root/PUBG/update.sh
 ```
 
 ## Translation
@@ -32,4 +32,4 @@ Watching address  serverIP:20086/
 Restart PUBG-test command
 
 ```bash
-cd /root/PUBG_test;. restart.sh
+cd /root/PUBG;. restart.sh
