@@ -30,8 +30,7 @@ cd libpcap-1.8.1
 make
 make install
 
-
-git clone https://github.com/zy519871324/PUBG_test.git
+git clone https://github.com/jianghu88/pubg.git
 cd PUBG_test/
 
 npm i
