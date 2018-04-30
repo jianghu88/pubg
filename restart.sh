@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-cd /root/libpcap-1.8.1/PUBG-Radar-Onekey
+cd /root/libpcap-1.8.1/pubg/
 =======
 cd /root/libpcap-1.8.1/Shool
 >>>>>>> 提交文件
