@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 cd /root/pubg/
 =======
 cd /root/Shool
