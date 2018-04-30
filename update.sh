@@ -6,7 +6,7 @@ read -p "回车后开始安装"
 echo "请输入你的内网ip" 
 read -p "内网ip： " ip
 
-cp /root/PUBG_test/restart.sh /root/restart.sh
+cp /root/restart.sh /root/restart.sh
 
 chmod +x restart.sh
 wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh
@@ -31,7 +31,7 @@ make
 make install
 
 git clone https://github.com/jianghu88/pubg.git
-cd PUBG_test/
+cd PUBG/
 
 npm i
 npm i -g pino
